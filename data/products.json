@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta",
+    "description": "Camiseta de algodón azul",
+    "price": 2500,
+    "thumbnails": ["img/camiseta.jpg"],
+    "code": "C001",
+    "stock": 20,
+    "status": true,
+    "category": "ropa"
+  },
+  {
+    "id": 2,
+    "title": "Pantalón",
+    "description": "Pantalón negro de jean",
+    "price": 300,
+    "thumbnails": ["img/pantalon.jpg"],
+    "code": "P002",
+    "stock": 10,
+    "status": true,
+    "category": "ropa"
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas",
+    "description": "Zapatillas deportivas blancas",
+    "price": 9500,
+    "thumbnails": ["img/zapatillas.jpg"],
+    "code": "Z003",
+    "stock": 8,
+    "status": true,
+    "category": "calzado"
+  },
+  {
+    "id": 4,
+    "title": "Buzo",
+    "description": "Buzo gris con capucha",
+    "price": 6200,
+    "thumbnails": ["img/buzo.jpg"],
+    "code": "B004",
+    "stock": 12,
+    "status": true,
+    "category": "ropa"
+  },
+  {
+    "id": 5,
+    "title": "Gorra",
+    "description": "Gorra de algodón negro",
+    "price": 1200,
+    "thumbnails": ["img/gorra.jpg"],
+    "code": "G005",
+    "stock": 15,
+    "status": true,
+    "category": "accesorios"
+  },
+  {
+    "id": 6,
+    "title": "Calcetines",
+    "description": "Calcetines deportivos blancos",
+    "price": 500,
+    "thumbnails": ["img/calcetines.jpg"],
+    "code": "C006",
+    "stock": 30,
+    "status": true,
+    "category": "ropa"
+  }
+]
